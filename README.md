@@ -1,2 +1,2 @@
 # maze-solver
-Visualized with matplotlib, uses DFS to created the maze and BFS to solve the maze
+Visualized with matplotlib, uses DFS to create the maze and BFS to solve the maze
